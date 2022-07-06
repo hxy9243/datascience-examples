@@ -1,0 +1,13 @@
+{
+  "id": "oldgun/salary-analysis-data-analysis-exercise",
+  "title": "Salary analysis (data analysis exercise)",
+  "code_file": "salary_analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
