@@ -1,13 +1,13 @@
 {
-  "id": "oldgun/determine-pokemon-type",
-  "title": "Determine Pokemon Type",
+  "id": "oldgun/determine-pokemon-type-with-image-and-cnn",
+  "title": "Determine Pokemon Type with Image and CNN",
   "code_file": "pokemon.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "false",
   "enable_gpu": "true",
   "enable_internet": "true",
-  "dataset_sources": [],
+  "dataset_sources": ["vishalsubbiah/pokemon-images-and-types"],
   "competition_sources": [],
   "kernel_sources": []
 }
