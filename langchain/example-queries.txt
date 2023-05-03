@@ -1,0 +1,13 @@
+- In the text from all the about pages, what subjects mentioned are actually in the STAAR exams table?
+
+  Human answer: Science, mathematics, social studies.
+
+- In the text from the about pages, what subject mentioned does Asian have the highest score in 2022, for "Meet Grade Level"?
+
+  Human answer: Social Studies.
+  
+- What about the lowest?
+
+  Human answer: Mathematics.
+  
+  
